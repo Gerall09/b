@@ -7,7 +7,7 @@ let text = `
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Gopay:* [${global.pgopay}]
-│ • *Saweria:* [${global.saweria}]
+│ • *Saweria:* [${global.psaweria}]
 ❏────
 `
 const templateButtons = [
